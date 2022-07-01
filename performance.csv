@@ -1,0 +1,8 @@
+n,                        base,                        rate,                        accuracy_score
+150,                        RandomForestClassifier(random_state=101),                        1,                        <function accuracy_score at 0x00000271F0D80F70>
+150,                        RandomForestClassifier(random_state=101),                        1,                        <function accuracy_score at 0x00000271F0D80F70>
+150,                        RandomForestClassifier(random_state=101),                        1,                        None
+150,                        RandomForestClassifier(random_state=101),                        1,                        None
+50,                        DecisionTreeRegressor(max_depth=4),                        1,                        None
+50,                        DecisionTreeRegressor(max_depth=4),                        1,                        None
+990,                        DecisionTreeRegressor(max_depth=4),                        0.5,                        None
